@@ -1,0 +1,5 @@
+.env
+workoutProj/
+__pycache__/
+*.pyc
+.vscode/
